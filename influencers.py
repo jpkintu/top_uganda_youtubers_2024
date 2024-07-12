@@ -36,6 +36,8 @@ df["Subs"] = df["Subs"].apply(convert_abbreviated_to_float)
 # convert video vies column to float from int64
 df["Video Views"] = df["Video Views"].astype(float)
 
+df.to_csv("influencers-python-cleaned.csv")
+
 # df.shape
-df.info()
-df.head()
+# df.info()
+# df.head()
