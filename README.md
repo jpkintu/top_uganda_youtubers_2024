@@ -1,5 +1,6 @@
 #DATA PORTFOLIO TOP UGANDAN YOUTUBERS 2024
-![POWERB_DASHBOARD](assets/images/Screenshot 2024-07-14 111133.png)
+
+![DASHBOARD](assets/images/Screenshot 2024-07-14 111133.png)
 ##Objective
 What is the key pain point?
 For anyone seeking to find out who the top YouTubers are in 2024 in uganda to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
@@ -31,4 +32,4 @@ The information and visualizations provided in this portfolio are based on histo
 ### PowerBi Dashboard
 
  #### Main Dasboard
-![POWERB_DASHBOARD](assets/images/1.gif)
+![POWERBi_DASHBOARD](assets/images/1.gif)
