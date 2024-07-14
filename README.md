@@ -15,7 +15,7 @@ This may help in making informed decisions about which YouTubers to collaborate 
 
 ## Data source
 What data is needed to achieve our objective?
-We need data on the top UK YouTubers in 2024 that includes their
+We need data on the top UG YouTubers in 2024 that includes their
 
 -channel names
 -total subscribers
@@ -30,4 +30,5 @@ The information and visualizations provided in this portfolio are based on histo
 ## Visualization
 ### PowerBi Dashboard
 
-![POWERB_DASHBOARD](assets/images/Screenshot 2024-07-14 111133.png)
+#### MAIN DASBOARD
+![POWERB_DASHBOARD](assets/images/1.gif)
