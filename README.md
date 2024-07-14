@@ -39,3 +39,6 @@ The information and visualizations provided in this portfolio are based on histo
 
 ### BarChart Showing Top 10 Youtubers by Subscribers
 ![Top 10 Youtubers by Subscribers](assets/images/3.gif)
+
+### Data Table
+![Data Table](assets/images/4.gif)
