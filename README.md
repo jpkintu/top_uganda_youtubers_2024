@@ -42,3 +42,24 @@ The information and visualizations provided in this portfolio are based on histo
 
 ### Data Table
 ![Data Table](assets/images/4.gif)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Your other head elements (stylesheets, meta tags, etc.) go here -->
+</head>
+<body>
+    <!-- Your main content goes here -->
+
+    <!-- Footer section -->
+    <footer>
+        <div class="footer-content">
+            <p>Contact me:</p>
+            <ul>
+                <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+                <li>LinkedIn: <a href="https://www.linkedin.com/in/your-profile">Your LinkedIn Profile</a></li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>
