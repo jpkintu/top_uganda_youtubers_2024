@@ -17,10 +17,10 @@ This may help in making informed decisions about which YouTubers to collaborate 
 What data is needed to achieve our objective?
 We need data on the top UG YouTubers in 2024 that includes their
 
--channel names
--total subscribers
--total views
--total videos uploaded
+- channel names
+- total subscribers
+- total views
+- total videos uploaded
 
 Where is the data coming from? The data is sourced from Social Blade (an Excel extract), [see here to find it.](https://socialblade.com/youtube/top/country/ug).
 
@@ -30,5 +30,5 @@ The information and visualizations provided in this portfolio are based on histo
 ## Visualization
 ### PowerBi Dashboard
 
-#### MAIN DASBOARD
+ #### Main Dasboard
 ![POWERB_DASHBOARD](assets/images/1.gif)
