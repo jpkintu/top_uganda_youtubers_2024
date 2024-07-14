@@ -33,3 +33,6 @@ The information and visualizations provided in this portfolio are based on histo
 ## Visualization - PowerBi Dashboard
 ### Main Dasboard
 ![POWERBi_DASHBOARD](assets/images/1.gif)
+
+### Treemap Showing Top 10 Youtubers by Views Count
+![Top 10 Youtubers by Views Count](assets/images/2.gif)
