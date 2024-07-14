@@ -58,6 +58,7 @@ The information and visualizations provided in this portfolio are based on histo
             <ul>
                 <li>Email: <a href="mailto:kintujp@gmail.com">kintujp@gmail.com</a></li>
                 <li>LinkedIn: <a href="linkedin.com/in/john-paul-k-aa6b8757">John Paul Kintu</a></li>
+                <li>Portforlio: <a href="https://jpkintu.github.io/Portfolio-Resume/">WWW.jpkintu.com</a></li>
             </ul>
         </div>
     </footer>
