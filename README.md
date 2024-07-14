@@ -36,3 +36,6 @@ The information and visualizations provided in this portfolio are based on histo
 
 ### Treemap Showing Top 10 Youtubers by Views Count
 ![Top 10 Youtubers by Views Count](assets/images/2.gif)
+
+### BarChart Showing Top 10 Youtubers by Subscribers
+![Top 10 Youtubers by Subscribers](assets/images/3.gif)
