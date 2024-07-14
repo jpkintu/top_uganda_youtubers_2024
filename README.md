@@ -30,7 +30,6 @@ Where is the data coming from? The data is sourced from Social Blade (an Excel e
 ### Data Portfolio Disclaimer
 The information and visualizations provided in this portfolio are based on historical data and specific time points. While efforts have been made to ensure accuracy, data can evolve over time due to various factors such as system updates, changes in business processes, or external events.
 
-## Visualization
-### PowerBi Dashboard
+## Visualization - PowerBi Dashboard
 #### Main Dasboard
 ![POWERBi_DASHBOARD](assets/images/1.gif)
