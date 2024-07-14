@@ -13,6 +13,7 @@ To create a dashboard that provides insights into the top Uganda YouTubers in 20
 - total views
 - total videos, and
 - engagement metrics
+
 This may help in making informed decisions about which YouTubers to collaborate with for their marketing campaigns.
 
 ## Data source
