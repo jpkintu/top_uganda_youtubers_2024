@@ -44,13 +44,6 @@ The information and visualizations provided in this portfolio are based on histo
 ![Data Table](assets/images/4.gif)
 
 
-<html lang="en">
-<head>
-    <!-- Your other head elements (stylesheets, meta tags, etc.) go here -->
-</head>
-<body>
-    <!-- Your main content goes here -->
-
     <!-- Footer section -->
     <footer>
         <div class="footer-content">
@@ -62,5 +55,3 @@ The information and visualizations provided in this portfolio are based on histo
             </ul>
         </div>
     </footer>
-</body>
-</html>
