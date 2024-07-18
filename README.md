@@ -43,15 +43,14 @@ The information and visualizations provided in this portfolio are based on histo
 ### Data Table
 ![Data Table](assets/images/4.gif)
 
-
-    <!-- Footer section -->
-    <footer>
-        <div class="footer-content">
-            <p>Contact me:</p>
-            <ul>
-                <li>Email: <a href="mailto:kintujp@gmail.com">kintujp@gmail.com</a></li>
-                <li>LinkedIn: <a href="https://www.linkedin.com/in/john-paul-k-aa6b8757" target="_blank" rel="noreferrer noopener">John Paul Kintu</a></li>
-                <li>Portforlio: <a href="https://jpkintu.github.io/Portfolio-Resume/" target="_blank" rel="noreferrer noopener">www.jpkintu.com</a></li>
-            </ul>
-        </div>
-    </footer>
+<!-- Footer section -->
+<footer>
+    <div class="footer-content">
+        <p>Contact me:</p>
+        <ul>
+            <li>Email: <a href="mailto:kintujp@gmail.com">kintujp@gmail.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/john-paul-k-aa6b8757" target="_blank" rel="noreferrer noopener">John Paul Kintu</a></li>
+            <li>Portforlio: <a href="https://jpkintu.github.io/Portfolio-Resume/" target="_blank" rel="noreferrer noopener">www.jpkintu.com</a></li>
+        </ul>
+    </div>
+</footer>
